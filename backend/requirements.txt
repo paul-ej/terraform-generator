@@ -4,6 +4,3 @@ flask_caching@2.1.0
 requests@2.32.2
 bs4
 aiohttp@3.10.2
-zipp@3.19.1
-werkzeug@3.0.3
-urllib@2.2.2
